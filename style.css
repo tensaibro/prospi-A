@@ -1,5 +1,5 @@
 body {
-  background: #111;
+  background: #0d0d0d;
   color: #fff;
   font-family: monospace;
   text-align: center;
@@ -10,4 +10,3 @@ canvas {
   border: 3px solid #fff;
   margin-top: 20px;
 }
-
